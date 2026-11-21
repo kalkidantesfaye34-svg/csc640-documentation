@@ -4,7 +4,7 @@ marp: true
 
 # HW4 - Stage 2 Plan
 
-**Submission Deadline:** [Write the HW4 submission deadline]
+**Submission Deadline:** [December 9,2026]
 
 This file is the master Plan vs Actual. Keep a copy in the `plan/` folder of your GitHub repository, and link it from your Canvas progress page instead of retyping it.
 
@@ -22,19 +22,19 @@ This file is the master Plan vs Actual. Keep a copy in the `plan/` folder of you
 
 ### Milestone 1 Submission
 
-1. **What:** Complete course management operations, including course creation, retrieval, updating, and deletion. Verify authentication and authorization, and update automated acceptance tests and test results.
+1. **What:** Develop the Student Course Management REST API using Laravel. Implement the Laravel framework and MVC structure, including routes, controllers, and models. Use Eloquent ORM for database operations and Laravel migrations to manage the database schema.
 2. **When (Plan):** November 30, 2026
 3. **When (Actual):** TBD
-4. **Comment:** A working and tested course management API with successful and unsuccessful request testing and updated acceptance test results.
+4. **Comment:** A working Laravel REST API with configured routes, controllers, models, Eloquent ORM database operations, migrations, and tested API endpoints.
 
 ---
 
 ### Milestone 2 Submission
 
-1. **What:** Complete assignment and grade management, perform integration and regression testing, and update the final project documentation.
+1. **What:** Complete the DevOps and deployment requirements. Containerize the Laravel application using Docker with PHP and NGINX, explore automation and deployment workflows, create the project documentation website using Hugo, and publish it through GitHub.io.
 2. **When (Plan):** December 8, 2026
 3. **When (Actual):** TBD
-4. **Comment:** Completed assignment and grade management functionality, verified database operations, updated acceptance tests, and revised API tutorial and README.
+4. **Comment:** A containerized and tested Laravel REST API with Docker, PHP, and NGINX; documented automation and deployment workflow; and a published Hugo documentation website using GitHub Pages.
 
 ---
 
