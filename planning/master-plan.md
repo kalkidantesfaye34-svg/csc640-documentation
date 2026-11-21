@@ -20,10 +20,10 @@ The API supports student registration, authentication, course management, and as
 
 | Milestone | Description | Planned Date | Actual Date | Status |
 |---|---|---|---|---|
-| 1 | Project environment, student registration, login, and bearer-token generation | November 17, 2026 | November 15, 2026 | Completed |
+| 1 | Environment setup, registration, login, and bearer-token generation | November 17, 2026 | November 15, 2026 | Completed |
 | 2 | Authenticated read-only course API, testing, and documentation | November 20, 2026 | November 20, 2026 | Completed |
-| 3 | Course management operations | To be confirmed | To be confirmed | To be confirmed |
-| 4 | Assignment and grade management | To be confirmed | To be confirmed | To be confirmed |
+| 3 | Course management operations and testing | November 30, 2026 | TBD | Planned |
+| 4 | Assignment and grade management, integration testing, and final documentation | December 9, 2026 | TBD | Planned |
 
 ## 4. Stage 1 Deliverables
 
