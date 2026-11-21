@@ -37,10 +37,3 @@ This file is the master Plan vs Actual. Keep a copy in the `plan/` folder of you
 4. **Comment:** A containerized and tested Laravel REST API with Docker, PHP, and NGINX; documented automation and deployment workflow; and a published Hugo documentation website using GitHub Pages.
 
 ---
-
-### Additional Milestones (if necessary)
-
-1. **What:**
-2. **When (Plan):**
-3. **When (Actual):** TBD
-4. **Comment:**
