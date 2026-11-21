@@ -12,7 +12,7 @@ This file is the master Plan vs Actual. Keep a copy in the `plan/` folder of you
 
 ## Your HW4 Part 3 Submission Date
 
-1. **When (Plan):** [Enter planned submission date]
+1. **When (Plan):** December 9,2026
 2. **When (Actual):** TBD
 3. **Comment:** Submission of the Stage 2 project plan, including two planned milestones, their deliverables, and completion dates.
 
@@ -32,7 +32,7 @@ This file is the master Plan vs Actual. Keep a copy in the `plan/` folder of you
 ### Milestone 2 Submission
 
 1. **What:** Complete assignment and grade management, perform integration and regression testing, and update the final project documentation.
-2. **When (Plan):** December 9, 2026
+2. **When (Plan):** December 8, 2026
 3. **When (Actual):** TBD
 4. **Comment:** Completed assignment and grade management functionality, verified database operations, updated acceptance tests, and revised API tutorial and README.
 
