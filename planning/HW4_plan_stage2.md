@@ -4,7 +4,7 @@ marp: true
 
 # HW4 - Stage 2 Plan
 
-**Submission Deadline:** [Enter the official HW4 submission deadline]
+**Submission Deadline:** [Write the HW4 submission deadline]
 
 This file is the master Plan vs Actual. Keep a copy in the `plan/` folder of your GitHub repository, and link it from your Canvas progress page instead of retyping it.
 
