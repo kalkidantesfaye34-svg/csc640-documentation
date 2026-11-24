@@ -27,9 +27,9 @@ Self-score each row and link to evidence. Full credit requires the stated workin
 
 | Criterion | Points | Earned |
 |---|---:|---|
-| Milestones in `HW4_plan_stage1.md` were completed on or before their planned dates; score = 10 × milestones on time ÷ total milestones | 10 | [ /10] |
-| Plan vs Actual dates were recorded and kept up to date throughout, and changes are explained (master copy in `plan/`, linked from your Canvas progress page) | 10 | [ /10] |
-| **Total** | **20** | **[ /20]** |
+| Milestones in `HW4_plan_stage1.md` were completed on or before their planned dates; score = 10 × milestones on time ÷ total milestones | 10 | [10 /10] |
+| Plan vs Actual dates were recorded and kept up to date throughout, and changes are explained (master copy in `plan/`, linked from your Canvas progress page) | 10 | [10 /10] |
+| **Total** | **20** | **[20 /20]** |
 
 ---
 
@@ -72,9 +72,9 @@ For Option 1, you earn each row's points by implementing the equivalent feature.
 
 ## Final Checks
 
-- [ ] My HW1 GitHub repository has `code/`, `presentation/`, and `plan/`, with `acceptance.md`, tests/results, and README.
-- [ ] Published source and documentation on GitHub; the link is on my HW1 Canvas progress page.
-- [ ] Cited reused work (lecture slides by file name and page) and AI assistance; I can explain my implementation and tests.
+- [X ] My HW1 GitHub repository has `code/`, `presentation/`, and `plan/`, with `acceptance.md`, tests/results, and README.
+- [ X] Published source and documentation on GitHub; the link is on my HW1 Canvas progress page.
+- [X ] Cited reused work (lecture slides by file name and page) and AI assistance; I can explain my implementation and tests.
 - [X] I will submit `peer-review.md` (from `peer-review-example.md`) on Canvas (HW4 Part 2 Peer Review).
 
-**Total: [ /100]** (Schedule 20 + Implementation 60 + Tutorial 20)
+**Total: [100 /100]** (Schedule 20 + Implementation 60 + Tutorial 20)
